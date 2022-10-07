@@ -24,15 +24,7 @@ public class App {
         
         //System.out.println("Area -> " + base * altura);
         area = base * altura;
-        System.out.println("Area -> " + area);
-        
-        
-        
-        
-        
-        
-        
-        
+        System.out.println("Area -> " + area);   
         
     }
 }
